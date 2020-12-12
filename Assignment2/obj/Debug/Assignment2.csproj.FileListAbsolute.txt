@@ -1,0 +1,11 @@
+E:\HND\U1_Programming\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+E:\HND\U1_Programming\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+E:\HND\U1_Programming\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+E:\HND\U1_Programming\Assignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+E:\HND\U1_Programming\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+E:\HND\U1_Programming\Assignment2\Assignment2\obj\Debug\Assignment2.Form2.resources
+E:\HND\U1_Programming\Assignment2\Assignment2\obj\Debug\Assignment2.Form3.resources
+E:\HND\U1_Programming\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+E:\HND\U1_Programming\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+E:\HND\U1_Programming\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+E:\HND\U1_Programming\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
